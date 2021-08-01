@@ -4,3 +4,5 @@ node_modules
 config/env/config.env
 
 .prettierrc.js
+
+dummy-generator.js
