@@ -3,6 +3,6 @@ node_modules
 
 config/env/config.env
 
-/.prettierrc.js
+.prettierrc
 
-/dummy-generator.js
+dummy-generator
