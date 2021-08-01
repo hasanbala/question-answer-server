@@ -1,3 +1,6 @@
+# dotenv environment variables file
 node_modules
 
 config/env/config.env
+
+prettierrc.js
